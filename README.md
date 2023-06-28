@@ -27,7 +27,7 @@ To run the project, follow the instructions below:
 2. Make sure Node.js is installed.
 3. In the project directory, open a terminal and run:
 
-        $node MyNFT.js
+        $node myNFT.js
    
 ## Author
 Palak Jain :)
