@@ -25,9 +25,7 @@ To run the project, follow the instructions below:
         $git clone <link of repo>
         
 2. Make sure Node.js is installed.
-3. In the project directory, open a terminal and run:
-
-        $node myNFT.js
+3. In the project directory, open a terminal and run the code.
    
 ## Author
 Palak Jain :)
